@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "RentalApp",
+    "slug": "rentalapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "FIREBASE_API_KEY": "AIzaSyCaOy-W5vwUE4_RoaAVSiQKx313i3yQSpM",
+      "FIREBASE_AUTH_DOMAIN": "nidi-databases.firebaseapp.com",
+      "FIREBASE_DATABASE_URL": "https://nidi-databases-default-rtdb.firebaseio.com",
+      "FIREBASE_PROJECT_ID": "nidi-databases",
+      "FIREBASE_STORAGE_BUCKET": "nidi-databases.appspot.com",
+      "FIREBASE_MESSAGING_SENDER_ID": "1064415780499",
+      "FIREBASE_APP_ID": "1:1064415780499:web:133dae2db3155f1305b766"
+    }
+  }
+}
